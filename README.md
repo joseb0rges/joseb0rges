@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**joseb0rges/joseb0rges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Ola, eu José Borges 💻
 
 <p align="center">
@@ -11,5 +6,3 @@
 </p>
 
 Possuo um background sólido em infraestrutura, Segurança da Informação e Devops, já participei de vários projetos nessas áreas citadas, além de ter atuado em outros projetos como consultor de adequação a Lei de Proteção de Dados. Valorizo projetos de tecnologia visando a segurança desse do principio (security by design).Gosto muito de Linux, Python e Go.
-
--->
