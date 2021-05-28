@@ -1,4 +1,4 @@
-## Ola, eu José Borges :closed_lock_with_key:
+## Ola, eu sou José Borges :closed_lock_with_key:
 
 <p align="center">
 	<a href="https://github.com/joseb0rges"><img src="https://img.shields.io/github/followers/cassiodeveloper.svg?label=GitHub&style=flat-square&logo=github" alt="GitHub"></a>
